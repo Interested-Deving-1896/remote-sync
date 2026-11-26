@@ -67,7 +67,7 @@ Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-
 <!-- AI:start:contributors -->
 | Contributor | Commits |
 |---|---|
-| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 43 |
+| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 44 |
 | [@tchartron](https://github.com/tchartron) | 7 |
 <!-- AI:end:contributors -->
 
@@ -86,7 +86,7 @@ _No additional resource files found._
 ## Accessibility
 
 <!-- AI:start:accessibility -->
-No  was found when this README was generated. Check the
+No `accessibility-report.json` was found when this README was generated. Check the
 [Actions tab](https://github.com/Interested-Deving-1896/remote-sync/actions) for repository-specific checks, and document an
 accessibility status only when a report or workflow provides evidence for it.
 
